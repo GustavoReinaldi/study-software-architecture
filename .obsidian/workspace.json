@@ -11,13 +11,14 @@
             "id": "c0818eabd11cda31",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (community-plugins.json)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -171,6 +173,7 @@
   },
   "active": "c0818eabd11cda31",
   "lastOpenFiles": [
+    "obsidian.md",
     "README.md",
     "Software Engineering/Software Architecture Patterns/detailed/Clean Architecture.md",
     "Cloud/AWS/First Cloud Concepts Using AWS.md",
