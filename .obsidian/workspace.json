@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +159,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "d774370d5c572891",
+  "active": "9eccaf73d29e2a6f",
   "lastOpenFiles": [
     "README.md",
     "Cloud/AWS/First Cloud Concepts Using AWS.md",
